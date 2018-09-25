@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.capgemini</groupId>
-	<artifactId>employeeapp</artifactId>
+	<artifactId>employeeapp2</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employeeapp Maven Webapp</name>
@@ -61,6 +61,6 @@
 		
 	</dependencies>
 	<build>
-		<finalName>employeeapp</finalName>
+		<finalName>employeeapp2</finalName>
 	</build>
 </project>
